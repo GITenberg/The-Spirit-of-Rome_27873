@@ -1,0 +1,31 @@
+_repo: The-Spirit-of-Rome_27873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
+description: Italy springs to life in the pages of this collection of luminous essays,
+  vignettes and observations from Vernon Lee. Presented as fragments from an old diary
+  kept by an expatriate whose youth was spent in Rome, the vivid descriptions and
+  innovative narrative structure make this an unforgettable read.
+gutenberg_issued: '2009-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome (Italy) -- Description and travel'
+title: The Spirit of Rome
+url: http://www.gutenberg.org/ebooks/27873
